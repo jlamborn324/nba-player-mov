@@ -1,5 +1,6 @@
 # nba-player-mov
 
+![Initial skecth of UI](https://user-images.githubusercontent.com/46695917/174656226-a7725b25-ce04-4d79-9d52-f680e028fc74.png)
 Read below for some information about the vue configuration
 ## Recommended IDE Setup
 
